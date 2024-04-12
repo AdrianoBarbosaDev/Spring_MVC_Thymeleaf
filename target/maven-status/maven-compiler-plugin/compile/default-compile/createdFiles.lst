@@ -1,0 +1,8 @@
+br\com\CRUDMVC\conversor\TipoSexoConverter.class
+br\com\CRUDMVC\domain\Usuario.class
+br\com\CRUDMVC\dao\UsuarioDao.class
+br\com\CRUDMVC\domain\TipoSexo.class
+br\com\CRUDMVC\dao\UsuarioDaoImpl.class
+br\com\CRUDMVC\controller\UsuarioController.class
+br\com\CRUDMVC\config\RootConfig.class
+br\com\CRUDMVC\controller\WelcomeController.class
